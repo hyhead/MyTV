@@ -1,0 +1,10 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "outputDirectory": ".",
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/launchpad_local_dashboard.html"
+    }
+  ]
+}
